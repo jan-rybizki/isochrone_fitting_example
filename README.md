@@ -6,3 +6,5 @@ We show how single stars stellar parameters can be inferred and how for resolved
 We look into convergence criteria and also how mass production can be performed
 
 The isochrones used are a downsampled version from https://ui.adsabs.harvard.edu/abs/2020PASP..132g4501R/abstract
+
+Could be turned into a longer tutorial, but needs more educational plots, e.g. CMD data vs model predictions, and plotted models.
