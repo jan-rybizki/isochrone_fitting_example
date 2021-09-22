@@ -1,5 +1,5 @@
 # isochrone_fitting_example
-We illustrate the usage of a forward model using the latest parsec isochrones with emcee to infer stellar parameters for single and binary stars
+We illustrate the usage of a forward model using the latest parsec isochrones with emcee to infer stellar parameters (teff, logg, feh and possibly a0) for single and binary stars (teff and logg for each component).
 
 We show how single stars stellar parameters can be inferred and how for resolved binary systems (wide common proper motion binaries) the fact that both share the same age can be exploited.
 
